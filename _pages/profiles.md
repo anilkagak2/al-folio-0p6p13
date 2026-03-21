@@ -2,27 +2,37 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: A showcase of the talented interns I've mentored and collaborated with on challenging GenAI research.
 nav: true
-nav_order: 7
+nav_order: 5 #7
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+    content: _interns/dogyun.md
+  - align: left
+    content: _interns/dongting.md
+  - align: left
+    content: _interns/james.md
+  - align: left
+    content: _interns/jierun.md
+  - align: left
+    content: _interns/lin.md
+  - align: left
+    content: _interns/shyamgopal.md
+  - align: left
+    content: _interns/tsaishen.md
+  - align: left
+    content: _interns/xiaomeng.md
+  - align: left
+    content: _interns/xijie.md
+  - align: left
+    content: _interns/yang.md
+  - align: left
+    content: _interns/yifan.md
+  - align: left
+    content: _interns/yunuo.md
+  - align: left
+    content: _interns/yushu.md
+  - align: left
+    content: _interns/ziyi.md
 ---

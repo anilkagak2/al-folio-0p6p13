@@ -6,11 +6,9 @@
   {% for entry in entries %}
     <li class="list-group-item">
       <div class="row">
-        {% capture start_date %}
-          {% if entry.date %}{{ entry.date }}{% endif %}
-        {% endcapture %}
+        {% assign start_date = entry.date %}
 
-        {% if start_date != '' %}
+        {% if start_date %}
           <div class="col-xs-2 col-sm-2 col-md-2 text-center">
             <table class="table-cv">
               <tbody>
