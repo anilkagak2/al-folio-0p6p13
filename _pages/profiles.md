@@ -6,6 +6,33 @@ description: A showcase of the talented interns I've mentored and collaborated w
 nav: true
 nav_order: 5
 
+_styles: >
+  .category {
+    margin-top: 2.5rem !important;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--global-divider-color);
+    font-weight: 500;
+    color: var(--global-theme-color);
+  }
+  .category:first-of-type {
+    margin-top: 1rem !important;
+  }
+  .post article p {
+    margin-bottom: 0.5rem !important;
+    color: var(--global-text-color-light);
+    font-size: 0.95rem;
+  }
+  .post article p a {
+    font-weight: 600;
+    color: var(--global-text-color) !important;
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+  .post article p a:hover {
+    color: var(--global-theme-color) !important;
+    text-decoration: underline;
+  }
+
 profiles:
   - title: Research Interns
     entries:
@@ -40,7 +67,28 @@ profiles:
 
   - title: Collaborators
     entries:
-      # Add collaborators here later
+      - align: left
+        content: _interns/aliaksandr.md
+      - align: left
+        content: _interns/ivan.md
+      - align: left
+        content: _interns/willi.md
+      - align: left
+        content: _interns/gordon.md
+      - align: left
+        content: _interns/yanyu.md
+      - align: left
+        content: _interns/aditya.md
+      - align: left
+        content: _interns/alp.md
+      - align: left
+        content: _interns/ziming.md
+      - align: left
+        content: _interns/igor.md
+      - align: left
+        content: _interns/paul.md
+      - align: left
+        content: _interns/raymond.md
 
   - title: References
     entries:
