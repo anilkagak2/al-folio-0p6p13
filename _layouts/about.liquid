@@ -46,6 +46,11 @@ layout: default
         <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
       </h2>
       {% include news.liquid limit=true %}
+      {% if page.announcements.limit %}
+        <p style="text-align: right">
+          <a href="{{ '/news/' | relative_url }}">More news...</a>
+        </p>
+      {% endif %}
     {% endif %}
 
     <!-- Latest posts -->
