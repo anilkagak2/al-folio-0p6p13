@@ -181,4 +181,12 @@ cv:
 
     Academic Service:
       - title: Peer Review
-        summary: Evaluated 100+ research manuscripts for top-tier venues including NeurIPS, CVPR, ICML, ICLR, ICCV, ECCV, AAAI, COLT, ICASSP, and TMLR.
+        summary: Evaluated 100+ research manuscripts for top-tier venues.
+        highlights:
+          - "**2025:** [CVPR](https://cvpr.thecvf.com/Conferences/2025/), [NeurIPS](https://neurips.cc/Conferences/2025/ProgramCommittee)"
+          - "**2024:** [CVPR](https://cvpr.thecvf.com/Conferences/2024/), [NeurIPS](https://neurips.cc/Conferences/2024/ProgramCommittee)"
+          - "**2023:** [ICML](https://icml.cc/Conferences/2023/Reviewers), [NeurIPS](https://neurips.cc/Conferences/2023/ProgramCommittee), [ICLR](https://iclr.cc/Conferences/2023/Reviewers), [TMLR](https://jmlr.org/tmlr/), [CVPR](https://cvpr2023.thecvf.com/Conferences/2023)"
+          - "**2022:** [ICML](https://icml.cc/Conferences/2022/Reviewers), [NeurIPS](https://neurips.cc/Conferences/2022/ProgramCommittee), [ICLR](https://iclr.cc/Conferences/2022/Reviewers), [TMLR](https://jmlr.org/tmlr/)"
+          - "**2021:** [ICML](https://icml.cc/Conferences/2021/Reviewers), [NeurIPS](https://nips.cc/Conferences/2021/ProgramCommittee), [COLT](https://www.learningtheory.org/colt2021/), [AAAI](https://aaai.org/), [ICASSP](https://www.2021.ieeeicassp.org/2021.ieeeicassp.org/index.html)"
+          - "**2020:** [COLT](https://learningtheory.org/colt2020/), [NeurIPS](https://nips.cc/Conferences/2020/Reviewers)"
+          - "**2019:** [IJCAI](https://www.ijcai19.org/)"
